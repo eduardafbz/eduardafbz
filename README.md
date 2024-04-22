@@ -16,7 +16,6 @@ Currently, my programming skills are focused on Front End, where I am working on
 
 ## 📊 GitHub Stats
 ![Seu nome](https://github-readme-stats.vercel.app/api?username=eduardafbz&show_icons=true&theme=dracula) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardafbz&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
