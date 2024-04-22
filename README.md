@@ -13,6 +13,7 @@ Currently, my programming skills are focused on Front End, where I am working on
 
 ## 💬 Social
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Seu nome](https://github-readme-stats.vercel.app/api?username=eduardafbz&show_icons=true&theme=dracula) 
