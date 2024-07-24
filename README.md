@@ -1,14 +1,15 @@
-# Hello World, I'm Maria. Welcome! 😊
+# Hello World, I'm Maria! 😊
 Great to meet you! I'm Maria Eduarda, a Computer Science student with a deep passion for programming. 
 
 ## 🚀 Expertise
-Currently, my programming skills are focused on Front End, where I am working on projects involving HTML and CSS. I am also studying JavaScript and Java, aiming to enhance my abilities, as my goal and desire is to work with Back End.
+Recently, I have been focused on building and improving my hard skills. My latest projects have been centered around Java and MySQL databases, areas I intend to concentrate on and develop further. My personal and professional goal is to work in back-end development.
 
 ## 💻 Tech Stack 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 💬 Social
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
