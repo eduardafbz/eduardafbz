@@ -1,8 +1,4 @@
 # Hello World, I'm Maria! 😊
-Great to meet you! I'm Maria Eduarda, a Computer Science student with a deep passion for programming. 
-
-## 🚀 Expertise
-Recently, I have been focused on building and improving my hard skills. My latest projects have been centered around Java and MySQL databases, areas I intend to concentrate on and develop further. My personal and professional goal is to work in back-end development.
 
 ## 💻 Tech Stack 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
