@@ -12,7 +12,7 @@
 💼 Estagiária
 💻 Foco em desenvolvimento backend com Java e Python  
 📚 Estudando atualmente: Java Avançado, Spring Boot, PostgreSQL
-🎯 Em busca de aprendizado contínuo e novos desafios na área de tecnologia 
+📚 Estudando atualmente: Java Avançado, Spring Boot, PostgreSQL
 
 ### 🛠️ Tecnologias e Ferramentas
 
