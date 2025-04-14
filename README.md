@@ -32,5 +32,6 @@
 
 ### 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardafbz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardafbz&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardafbz&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardafbz&layout=compact&theme=onedark)
