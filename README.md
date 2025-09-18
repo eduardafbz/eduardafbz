@@ -8,9 +8,9 @@
 
 ### 💡 Sobre mim
 
-🎓 Estudante de Ciência da Computação (5º semestre).  
+🎓 Estudante de Ciência da Computação (6º semestre).  
 💼 Estagiária.
-💻 Foco em desenvolvimento backend com Java e Python.
+💻 Foco em desenvolvimento backend com Java.
 📚 Estudando atualmente: Java Avançado, Spring Boot, PostgreSQL.
 
 ### 🛠️ Tecnologias e Ferramentas
