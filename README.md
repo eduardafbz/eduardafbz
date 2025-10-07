@@ -9,7 +9,6 @@
 ### 💡 Sobre mim
 
 🎓 Estudante de Ciência da Computação (6º semestre).  
-💼 Estagiária.
 💻 Foco em desenvolvimento backend com Java.
 
 ### 🛠️ Tecnologias e Ferramentas
