@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Eu sou a Maria ✨</h1>
+<h1 align="center">Oi, eu sou a Maria!✨</h1>
 
 <p align="center">
   <i>Estudante de Ciência da Computação | Estagiária</i>
