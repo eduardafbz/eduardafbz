@@ -27,7 +27,3 @@
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 ### 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardafbz&show_icons=true&theme=onedark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardafbz&layout=compact&theme=onedark)
