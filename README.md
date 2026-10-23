@@ -1,33 +1,27 @@
-<h1 align="center">Oi, eu sou a Maria!✨</h1>
+<h1 align="center">Oi, eu sou a Maria! ✨</h1>
 
-<p align="center">
-  <i>Estudante de Ciência da Computação | Estagiária</i>
-</p>
+<p align="center"><i>Estudante de Ciência da Computação | Estagiária | Backend e Dados em formação</i></p>
 
 ---
 
-### 💡 Sobre mim
+## 💡 Sobre mim
 
-🎓 Estudante de Ciência da Computação (6º semestre).  
-💻 Foco em desenvolvimento backend com Java.
+🎓 Estudante de Ciência da Computação (8º semestre).
+💻 Foco em Python e dados.
+📍 São José dos Campos - SP
+🌱 Atualmente estudando: SQL, Python, Machine Learning, PLN e agentes de IA.
+📫 Fale comigo: mariaeduardafbraz@outlook.com
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-## 💬 Social
+## 💬 Contato
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-
-### 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardafbz&show_icons=true&theme=onedark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardafbz&layout=compact&theme=onedark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-braz-5596882b0/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mariaeduardafbraz@outlook.com)
