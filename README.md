@@ -6,10 +6,10 @@
 
 ## 💡 Sobre mim
 
-🎓 Estudante de Ciência da Computação (8º semestre).
-💻 Foco em Python e dados.
-📍 São José dos Campos - SP
-🌱 Atualmente estudando: SQL, Python, Machine Learning, PLN e agentes de IA.
+🎓 Estudante de Ciência da Computação (8º semestre).··
+💻 Foco em Python e dados.··
+📍 São José dos Campos - SP··
+🌱 Atualmente estudando: SQL, Python, Machine Learning, PLN e agentes de IA.··
 📫 Fale comigo: mariaeduardafbraz@outlook.com
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -20,6 +20,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardafbz&layout=compact&theme=onedark)
 
 ## 💬 Contato
 
