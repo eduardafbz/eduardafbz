@@ -6,10 +6,10 @@
 
 ## 💡 Sobre mim
 
-🎓 Estudante de Ciência da Computação (8º semestre).··
-💻 Foco em Python e dados.··
-📍 São José dos Campos - SP··
-🌱 Atualmente estudando: SQL, Python, Machine Learning, PLN e agentes de IA.··
+🎓 Estudante de Ciência da Computação (8º semestre).\
+💻 Foco em Python e dados.\
+📍 São José dos Campos - SP\
+🌱 Atualmente estudando: SQL, Python, Machine Learning, PLN e agentes de IA.\
 📫 Fale comigo: mariaeduardafbraz@outlook.com
 
 ## 🛠️ Tecnologias e Ferramentas
